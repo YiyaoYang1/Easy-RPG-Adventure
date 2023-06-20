@@ -17,3 +17,4 @@ Just unzip the file and open it in your Unity Editor.
 
 ## Introduction to the game content
 In the game, a robot embodies the player and can move around. The player may find some tools and hints which promote the development of plots.
+在游戏中，玩家化身一个机器人，可以四处寻找道具和提示来推动剧情发展。
